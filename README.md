@@ -1,2 +1,1 @@
 # datascienceworkshops
-website สำหรับ workshops
